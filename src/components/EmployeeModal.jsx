@@ -39,7 +39,7 @@ const EmployeeModal = ({ isOpen, onClose, employee }) => {
                   <p><strong>Department:</strong> {employee.Department}</p>
                   <p><strong>Role:</strong> {employee.Role}</p>
                   <p><strong>Status:</strong> {employee.Status}</p>
-                  <p><strong>Joining Date:</strong> {employee["Joining Date"]}</p>
+                  <p><strong>Joining Date:</strong> {employee["Joining_Date"]}</p>
                   <p><strong>Salary:</strong> ${employee.Salary}</p>
                 </div>
 
