@@ -1,0 +1,502 @@
+[
+  {
+    "Id": 1,
+    "Name": "Munishwaran Ramasamy",
+    "Email": "munishmukesh98@gmail.com",
+    "Department": "Engineering",
+    "Role": "Frontend Developer",
+    "Status": "Active",
+    "Joining_Date": "2025-07-26",
+    "Salary": 70000
+  },
+  {
+    "Id": 2,
+    "Name": "Priya Sharma",
+    "Email": "priya.sharma@example.com",
+    "Department": "Engineering",
+    "Role": "Backend Developer",
+    "Status": "Active",
+    "Joining_Date": "2024-09-15",
+    "Salary": 85000
+  },
+  {
+    "Id": 3,
+    "Name": "Amit Patel",
+    "Email": "amit.patel@example.com",
+    "Department": "Human Resources",
+    "Role": "HR Manager",
+    "Status": "Inactive",
+    "Joining_Date": "2023-05-10",
+    "Salary": 60000
+  },
+  {
+    "Id": 4,
+    "Name": "Sneha Iyer",
+    "Email": "sneha.iyer@example.com",
+    "Department": "Finance",
+    "Role": "Accountant",
+    "Status": "Active",
+    "Joining_Date": "2022-11-20",
+    "Salary": 55000
+  },
+  {
+    "Id": 5,
+    "Name": "Ravi Kumar",
+    "Email": "ravi.kumar@example.com",
+    "Department": "Engineering",
+    "Role": "DevOps Engineer",
+    "Status": "Active",
+    "Joining_Date": "2025-01-05",
+    "Salary": 90000
+  },
+  {
+    "Id": 6,
+    "Name": "Neha Gupta",
+    "Email": "neha.gupta@example.com",
+    "Department": "Marketing",
+    "Role": "Digital Marketer",
+    "Status": "Active",
+    "Joining_Date": "2023-03-12",
+    "Salary": 65000
+  },
+  {
+    "Id": 7,
+    "Name": "Vikram Singh",
+    "Email": "vikram.singh@example.com",
+    "Department": "Sales",
+    "Role": "Sales Executive",
+    "Status": "Inactive",
+    "Joining_Date": "2022-08-18",
+    "Salary": 50000
+  },
+  {
+    "Id": 8,
+    "Name": "Pooja Desai",
+    "Email": "pooja.desai@example.com",
+    "Department": "Engineering",
+    "Role": "UI/UX Designer",
+    "Status": "Active",
+    "Joining_Date": "2024-06-01",
+    "Salary": 72000
+  },
+  {
+    "Id": 9,
+    "Name": "Arjun Reddy",
+    "Email": "arjun.reddy@example.com",
+    "Department": "Engineering",
+    "Role": "QA Tester",
+    "Status": "Inactive",
+    "Joining_Date": "2021-12-30",
+    "Salary": 55000
+  },
+  {
+    "Id": 10,
+    "Name": "Divya Mehta",
+    "Email": "divya.mehta@example.com",
+    "Department": "Finance",
+    "Role": "Financial Analyst",
+    "Status": "Active",
+    "Joining_Date": "2023-07-11",
+    "Salary": 68000
+  },
+  {
+    "Id": 11,
+    "Name": "Karthik Subramanian",
+    "Email": "karthik.subramanian@example.com",
+    "Department": "Engineering",
+    "Role": "Full Stack Developer",
+    "Status": "Active",
+    "Joining_Date": "2024-02-28",
+    "Salary": 95000
+  },
+  {
+    "Id": 12,
+    "Name": "Swati Joshi",
+    "Email": "swati.joshi@example.com",
+    "Department": "Human Resources",
+    "Role": "Recruiter",
+    "Status": "Active",
+    "Joining_Date": "2023-10-09",
+    "Salary": 58000
+  },
+  {
+    "Id": 13,
+    "Name": "Manoj Nair",
+    "Email": "manoj.nair@example.com",
+    "Department": "Sales",
+    "Role": "Sales Manager",
+    "Status": "Active",
+    "Joining_Date": "2024-04-17",
+    "Salary": 87000
+  },
+  {
+    "Id": 14,
+    "Name": "Anita Kulkarni",
+    "Email": "anita.kulkarni@example.com",
+    "Department": "Marketing",
+    "Role": "Content Writer",
+    "Status": "Inactive",
+    "Joining_Date": "2022-09-23",
+    "Salary": 48000
+  },
+  {
+    "Id": 15,
+    "Name": "Harish Babu",
+    "Email": "harish.babu@example.com",
+    "Department": "Engineering",
+    "Role": "Data Engineer",
+    "Status": "Active",
+    "Joining_Date": "2025-06-14",
+    "Salary": 98000
+  },
+  {
+    "Id": 16,
+    "Name": "Anjali Singh",
+    "Email": "anjali.singh@example.com",
+    "Department": "Engineering",
+    "Role": "Frontend Developer",
+    "Status": "Inactive",
+    "Joining_Date": "2021-10-30",
+    "Salary": 72000
+  },
+  {
+    "Id": 17,
+    "Name": "Suresh Menon",
+    "Email": "suresh.menon@example.com",
+    "Department": "Finance",
+    "Role": "Auditor",
+    "Status": "Active",
+    "Joining_Date": "2023-01-19",
+    "Salary": 62000
+  },
+  {
+    "Id": 18,
+    "Name": "Meera Krishnan",
+    "Email": "meera.krishnan@example.com",
+    "Department": "Marketing",
+    "Role": "SEO Specialist",
+    "Status": "Active",
+    "Joining_Date": "2024-07-05",
+    "Salary": 67000
+  },
+  {
+    "Id": 19,
+    "Name": "Rahul Chatterjee",
+    "Email": "rahul.chatterjee@example.com",
+    "Department": "Sales",
+    "Role": "Account Executive",
+    "Status": "Inactive",
+    "Joining_Date": "2022-02-14",
+    "Salary": 56000
+  },
+  {
+    "Id": 20,
+    "Name": "Poonam Verma",
+    "Email": "poonam.verma@example.com",
+    "Department": "Human Resources",
+    "Role": "HR Coordinator",
+    "Status": "Active",
+    "Joining_Date": "2023-05-08",
+    "Salary": 60000
+  },
+  {
+    "Id": 21,
+    "Name": "Rohan Deshmukh",
+    "Email": "rohan.deshmukh@example.com",
+    "Department": "Engineering",
+    "Role": "Software Architect",
+    "Status": "Active",
+    "Joining_Date": "2025-03-03",
+    "Salary": 120000
+  },
+  {
+    "Id": 22,
+    "Name": "Vidya Pillai",
+    "Email": "vidya.pillai@example.com",
+    "Department": "Finance",
+    "Role": "Budget Analyst",
+    "Status": "Inactive",
+    "Joining_Date": "2022-12-20",
+    "Salary": 63000
+  },
+  {
+    "Id": 23,
+    "Name": "Deepak Shetty",
+    "Email": "deepak.shetty@example.com",
+    "Department": "Marketing",
+    "Role": "Social Media Manager",
+    "Status": "Active",
+    "Joining_Date": "2023-08-22",
+    "Salary": 71000
+  },
+  {
+    "Id": 24,
+    "Name": "Aarti Jain",
+    "Email": "aarti.jain@example.com",
+    "Department": "Engineering",
+    "Role": "QA Lead",
+    "Status": "Inactive",
+    "Joining_Date": "2021-06-28",
+    "Salary": 80000
+  },
+  {
+    "Id": 25,
+    "Name": "Shyam Sundar",
+    "Email": "shyam.sundar@example.com",
+    "Department": "Sales",
+    "Role": "Business Development Executive",
+    "Status": "Active",
+    "Joining_Date": "2024-01-13",
+    "Salary": 58000
+  },
+  {
+    "Id": 26,
+    "Name": "Lakshmi Nair",
+    "Email": "lakshmi.nair@example.com",
+    "Department": "Engineering",
+    "Role": "Machine Learning Engineer",
+    "Status": "Active",
+    "Joining_Date": "2025-05-01",
+    "Salary": 110000
+  },
+  {
+    "Id": 27,
+    "Name": "Vivek Anand",
+    "Email": "vivek.anand@example.com",
+    "Department": "Human Resources",
+    "Role": "HR Specialist",
+    "Status": "Inactive",
+    "Joining_Date": "2022-03-16",
+    "Salary": 57000
+  },
+  {
+    "Id": 28,
+    "Name": "Shruti Ramesh",
+    "Email": "shruti.ramesh@example.com",
+    "Department": "Finance",
+    "Role": "Payroll Manager",
+    "Status": "Active",
+    "Joining_Date": "2023-11-09",
+    "Salary": 65000
+  },
+  {
+    "Id": 29,
+    "Name": "Gaurav Malhotra",
+    "Email": "gaurav.malhotra@example.com",
+    "Department": "Engineering",
+    "Role": "Cloud Engineer",
+    "Status": "Active",
+    "Joining_Date": "2024-09-25",
+    "Salary": 95000
+  },
+  {
+    "Id": 30,
+    "Name": "Nisha Kapoor",
+    "Email": "nisha.kapoor@example.com",
+    "Department": "Marketing",
+    "Role": "Brand Manager",
+    "Status": "Inactive",
+    "Joining_Date": "2022-07-04",
+    "Salary": 76000
+  },
+  {
+    "Id": 31,
+    "Name": "Tarun Khanna",
+    "Email": "tarun.khanna@example.com",
+    "Department": "Engineering",
+    "Role": "Backend Developer",
+    "Status": "Active",
+    "Joining_Date": "2025-04-12",
+    "Salary": 88000
+  },
+  {
+    "Id": 32,
+    "Name": "Rekha Pillai",
+    "Email": "rekha.pillai@example.com",
+    "Department": "Finance",
+    "Role": "Accounts Payable Specialist",
+    "Status": "Inactive",
+    "Joining_Date": "2023-02-03",
+    "Salary": 54000
+  },
+  {
+    "Id": 33,
+    "Name": "Akhil Reddy",
+    "Email": "akhil.reddy@example.com",
+    "Department": "Sales",
+    "Role": "Sales Executive",
+    "Status": "Active",
+    "Joining_Date": "2024-11-19",
+    "Salary": 61000
+  },
+  {
+    "Id": 34,
+    "Name": "Bhavana Desai",
+    "Email": "bhavana.desai@example.com",
+    "Department": "Human Resources",
+    "Role": "Talent Acquisition",
+    "Status": "Active",
+    "Joining_Date": "2022-10-07",
+    "Salary": 60000
+  },
+  {
+    "Id": 35,
+    "Name": "Rajesh Tiwari",
+    "Email": "rajesh.tiwari@example.com",
+    "Department": "Engineering",
+    "Role": "Frontend Developer",
+    "Status": "Inactive",
+    "Joining_Date": "2021-09-14",
+    "Salary": 73000
+  },
+  {
+    "Id": 36,
+    "Name": "Smitha Rao",
+    "Email": "smitha.rao@example.com",
+    "Department": "Marketing",
+    "Role": "Marketing Analyst",
+    "Status": "Active",
+    "Joining_Date": "2023-06-22",
+    "Salary": 68000
+  },
+  {
+    "Id": 37,
+    "Name": "Kiran Kumar",
+    "Email": "kiran.kumar@example.com",
+    "Department": "Engineering",
+    "Role": "Mobile App Developer",
+    "Status": "Active",
+    "Joining_Date": "2025-02-08",
+    "Salary": 92000
+  },
+  {
+    "Id": 38,
+    "Name": "Sakshi Mehra",
+    "Email": "sakshi.mehra@example.com",
+    "Department": "Finance",
+    "Role": "Investment Analyst",
+    "Status": "Inactive",
+    "Joining_Date": "2022-01-29",
+    "Salary": 70000
+  },
+  {
+    "Id": 39,
+    "Name": "Pranav Shah",
+    "Email": "pranav.shah@example.com",
+    "Department": "Sales",
+    "Role": "Account Manager",
+    "Status": "Active",
+    "Joining_Date": "2024-03-16",
+    "Salary": 82000
+  },
+  {
+    "Id": 40,
+    "Name": "Vaishnavi Iyer",
+    "Email": "vaishnavi.iyer@example.com",
+    "Department": "Human Resources",
+    "Role": "Employee Relations Specialist",
+    "Status": "Active",
+    "Joining_Date": "2023-04-11",
+    "Salary": 59000
+  },
+  {
+    "Id": 41,
+    "Name": "Arvind Bhatt",
+    "Email": "arvind.bhatt@example.com",
+    "Department": "Engineering",
+    "Role": "Cloud Architect",
+    "Status": "Active",
+    "Joining_Date": "2025-07-01",
+    "Salary": 115000
+  },
+  {
+    "Id": 42,
+    "Name": "Jyoti Nair",
+    "Email": "jyoti.nair@example.com",
+    "Department": "Finance",
+    "Role": "Risk Analyst",
+    "Status": "Inactive",
+    "Joining_Date": "2022-05-20",
+    "Salary": 67000
+  },
+  {
+    "Id": 43,
+    "Name": "Nitin Verma",
+    "Email": "nitin.verma@example.com",
+    "Department": "Engineering",
+    "Role": "Data Scientist",
+    "Status": "Active",
+    "Joining_Date": "2025-01-25",
+    "Salary": 108000
+  },
+  {
+    "Id": 44,
+    "Name": "Anusha Reddy",
+    "Email": "anusha.reddy@example.com",
+    "Department": "Marketing",
+    "Role": "Content Strategist",
+    "Status": "Active",
+    "Joining_Date": "2024-10-03",
+    "Salary": 73000
+  },
+  {
+    "Id": 45,
+    "Name": "Siddharth Joshi",
+    "Email": "siddharth.joshi@example.com",
+    "Department": "Sales",
+    "Role": "Sales Director",
+    "Status": "Inactive",
+    "Joining_Date": "2021-11-27",
+    "Salary": 95000
+  },
+  {
+    "Id": 46,
+    "Name": "Pallavi Kulkarni",
+    "Email": "pallavi.kulkarni@example.com",
+    "Department": "Engineering",
+    "Role": "Full Stack Developer",
+    "Status": "Active",
+    "Joining_Date": "2025-06-07",
+    "Salary": 97000
+  },
+  {
+    "Id": 47,
+    "Name": "Deepak Singh",
+    "Email": "deepak.singh@example.com",
+    "Department": "Human Resources",
+    "Role": "Compensation Analyst",
+    "Status": "Active",
+    "Joining_Date": "2023-02-14",
+    "Salary": 62000
+  },
+  {
+    "Id": 48,
+    "Name": "Shraddha Mishra",
+    "Email": "shraddha.mishra@example.com",
+    "Department": "Finance",
+    "Role": "Tax Consultant",
+    "Status": "Inactive",
+    "Joining_Date": "2022-08-05",
+    "Salary": 69000
+  },
+  {
+    "Id": 49,
+    "Name": "Rajiv Khosla",
+    "Email": "rajiv.khosla@example.com",
+    "Department": "Engineering",
+    "Role": "Security Engineer",
+    "Status": "Active",
+    "Joining_Date": "2025-03-18",
+    "Salary": 98000
+  },
+  {
+    "Id": 50,
+    "Name": "Nikita Chopra",
+    "Email": "nikita.chopra@example.com",
+    "Department": "Marketing",
+    "Role": "Public Relations Manager",
+    "Status": "Active",
+    "Joining_Date": "2023-09-27",
+    "Salary": 75000
+  }
+]
